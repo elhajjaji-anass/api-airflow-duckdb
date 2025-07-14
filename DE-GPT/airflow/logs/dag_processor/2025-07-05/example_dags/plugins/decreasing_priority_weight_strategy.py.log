@@ -1,0 +1,336 @@
+{"timestamp":"2025-07-05T12:25:56.538535","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:26:34.356789","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:27:11.156679","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:27:51.159506","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:28:52.135959","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:30:27.821130","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:57:01.503914","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:57:40.082030","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:58:11.838352","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:58:52.005014","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:59:22.474274","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:59:53.163644","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:00:23.838564","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:00:55.493939","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:01:34.120504","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:02:20.773723","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:02:53.275226","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:03:24.495393","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:04:00.437501","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:04:35.146623","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:05:16.447327","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:06:08.650682","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:06:42.495661","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:07:14.254363","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:07:45.367381","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:08:21.805633","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:08:53.465096","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:09:24.076433","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:10:06.577748","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:11:01.805461","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:13:06.743899","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:16:13.341047","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:17:42.393461","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:20:29.520495","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:21:09.992768","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:21:40.572075","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:22:24.267898","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:22:54.940766","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:23:25.256251","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:23:58.784224","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:24:33.684535","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:25:04.712263","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:25:35.065379","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:26:06.006489","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:26:38.053858","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:27:09.005511","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:27:39.999553","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:28:10.415601","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:28:41.330064","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:29:12.098514","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:29:42.724664","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:30:13.709144","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:30:44.933151","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:31:18.773438","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:31:49.430792","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:32:19.876341","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:32:50.118964","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:33:23.013930","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:33:54.477933","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:34:25.756978","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:34:56.229047","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:35:27.619036","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:35:59.716447","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:36:34.415695","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:37:05.222735","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:37:44.384035","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:38:15.024423","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:38:49.077726","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:39:20.162306","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:39:51.106703","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:40:22.136740","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:40:52.765328","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:41:23.986293","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:41:55.657399","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:42:30.888329","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:43:01.664851","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:43:33.344843","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:44:07.951278","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:44:43.489961","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:45:15.029602","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:45:45.939754","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:46:16.322255","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:46:47.093332","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:47:17.895481","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:47:48.203310","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:48:18.591393","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:48:49.322581","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:49:20.142638","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:49:51.310836","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:50:21.685983","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:50:52.315307","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:51:23.362139","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:51:54.221508","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:52:25.506327","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:52:56.542389","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:53:27.181962","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:53:57.868768","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:54:30.153267","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:55:01.527167","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:55:33.038552","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:56:06.053015","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:56:37.235467","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:57:08.190569","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:57:39.557790","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:58:10.443945","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:58:41.592497","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:59:12.006392","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:59:42.623114","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:00:13.618903","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:00:44.188328","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:01:15.125294","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:01:45.973471","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:02:17.665795","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:02:49.217994","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:03:20.333405","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:03:50.666374","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:04:22.462044","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:04:54.242573","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:05:24.963381","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:05:55.417091","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:06:27.490452","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:06:58.516306","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:07:29.191130","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:07:59.620380","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:08:30.476270","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:09:01.878969","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:09:32.987922","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:10:03.889107","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:10:34.426169","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:11:05.414524","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:11:37.237199","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:12:07.929717","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:12:38.801357","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:13:09.229812","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:13:40.986245","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:14:12.208072","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:14:42.868424","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:15:13.631210","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:15:44.303392","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:16:16.839285","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:16:47.996963","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:17:18.641596","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:17:49.415688","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:18:20.550497","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:18:51.126247","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:19:21.970823","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:19:52.267046","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:20:23.407349","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:20:54.000424","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:21:25.902646","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:21:57.029814","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:22:27.784352","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:22:58.954642","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:23:29.508863","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:24:00.652564","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:24:31.100309","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:25:03.310577","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:25:34.226868","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:26:04.598498","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:26:35.158526","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:27:06.241367","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:27:37.384260","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:28:07.867790","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:28:54.935242","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:29:29.749733","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:30:06.866705","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:30:41.802958","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:31:15.582309","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:31:46.294817","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:32:17.072457","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:32:48.827543","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:33:19.365838","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:33:50.354802","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:34:21.312391","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:34:51.644050","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:35:23.145478","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:35:54.218268","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:36:25.294386","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:36:56.107476","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:43:26.838553","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:44:52.984541","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:45:53.496413","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:46:28.240051","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/plugins/decreasing_priority_weight_strategy.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:59:17.227832Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T14:59:48.111827Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:00:18.308985Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:00:49.484541Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:01:19.997585Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:01:51.215521Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:02:21.661573Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:02:52.551308Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:03:22.878704Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:03:53.504740Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:04:23.741734Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:04:54.668241Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:05:25.174705Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:05:55.348805Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:06:25.516540Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:06:56.127353Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:07:27.100942Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:07:57.470667Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:08:27.876982Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:08:58.985263Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:09:29.299681Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:09:59.820494Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:10:30.148712Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:11:01.488724Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:11:32.511514Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:12:02.876331Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:12:33.499054Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:13:04.747541Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:13:35.140121Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:14:05.346986Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:14:35.639347Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:15:06.948270Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:15:37.596076Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:16:08.622640Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:16:39.624303Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:17:10.018367Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:17:40.313673Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:18:11.265292Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:18:41.501814Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:19:11.827880Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:19:42.713284Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:20:12.925311Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:20:43.400881Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:21:14.744809Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:21:45.828487Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:22:16.897041Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:22:48.024643Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:23:18.862926Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:23:49.051583Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:24:19.498262Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:24:51.010849Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:25:21.510978Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:25:52.606334Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:26:22.942313Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:26:53.027979Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:27:24.006180Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:27:54.252575Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:28:24.598815Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:28:55.357424Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:29:26.385630Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:29:56.627613Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:30:27.196464Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:30:57.762455Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:31:28.122425Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:31:59.432502Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:32:29.839175Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:33:00.888736Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:33:31.010224Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:34:01.752105Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:34:32.759295Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:35:03.662759Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:35:34.662064Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:36:04.936825Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:36:35.100891Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:37:05.989985Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:37:36.217272Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:38:06.337423Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:38:36.580525Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:39:06.768157Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:39:37.611548Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:40:08.349011Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:40:38.947937Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:41:09.433981Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:41:40.032304Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:42:11.072372Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:42:41.331164Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:43:13.195229Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:43:43.732529Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:44:14.497359Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:44:45.185819Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:45:16.022306Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:45:47.844861Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:46:18.645629Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:46:49.537233Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:47:20.623657Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:47:50.978849Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:48:21.415585Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:48:51.753479Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:49:22.246277Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:49:52.698343Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:50:23.375813Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:50:53.771454Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:51:23.899510Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:51:54.663062Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:52:25.230413Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:52:55.464390Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:53:25.606220Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:53:55.876456Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:54:26.480912Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:54:56.845611Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:55:27.101608Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:55:57.764391Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:56:28.721001Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:56:58.830386Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:57:29.520918Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:58:00.348064Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:58:31.578363Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:59:01.698711Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:59:32.171762Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:00:02.700354Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:00:32.861283Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:01:03.569644Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:01:34.006879Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:02:04.946177Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:02:35.849344Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:03:06.300034Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:03:36.832490Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:04:06.999525Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:04:38.019924Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:05:08.791080Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:05:39.201842Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:06:09.324290Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:06:39.726886Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:07:10.265942Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:07:41.364544Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:08:11.590757Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:08:41.989908Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:09:12.691868Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:09:43.680452Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:10:14.976015Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:10:45.135616Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:11:15.415979Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:11:46.582019Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:12:17.571444Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:12:48.191918Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:13:18.681981Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:13:49.247668Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:14:20.207867Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:14:50.308571Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:15:21.124340Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:15:52.040242Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:16:22.701697Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:16:53.791035Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}

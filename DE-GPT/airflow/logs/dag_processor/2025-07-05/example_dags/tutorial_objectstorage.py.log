@@ -1,0 +1,340 @@
+{"timestamp":"2025-07-05T12:23:49.035997","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:25:58.025748","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:26:30.419385","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:27:04.007075","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:27:43.919128","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:28:15.671253","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:28:53.721898","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:30:56.101952","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:33:56.911312","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:57:00.918415","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:57:38.772876","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:58:10.735071","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:58:47.772429","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:59:18.224165","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T12:59:48.961808","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:00:20.070750","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:00:53.138040","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:01:31.124820","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:02:18.147069","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:02:50.448926","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:03:21.627161","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:03:57.100031","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:04:31.588706","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:05:14.856247","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:06:06.604199","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:06:40.589988","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:07:13.265337","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:07:44.128133","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:08:19.549825","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:08:50.784732","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:09:22.220277","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:10:04.302150","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:10:45.025594","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:12:47.797056","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:16:06.962906","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:17:33.448834","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:20:26.432630","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:21:03.765585","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:21:39.371735","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:22:23.120232","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:22:53.822958","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:23:24.272107","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:23:56.640377","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:24:28.949500","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:25:00.479589","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:25:31.959267","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:26:03.199369","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:26:35.290031","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:27:06.690331","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:27:37.219668","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:28:08.975398","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:28:39.477045","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:29:09.987075","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:29:40.477818","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:30:10.931131","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:30:42.570845","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:31:16.010185","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:31:46.865879","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:32:17.200137","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:32:47.589523","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:33:18.835022","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:33:50.798456","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:34:21.290855","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:34:51.728614","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:35:23.196477","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:35:55.608953","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:36:28.515816","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:37:01.503634","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:37:43.398653","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:38:13.979197","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:38:46.462156","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:39:17.276425","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:39:47.756544","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:40:18.506507","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:40:48.894627","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:41:21.426633","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:41:52.464104","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:42:26.276673","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:42:57.238083","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:43:28.902444","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:44:00.818402","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:44:32.846877","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:45:07.035089","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:45:38.077316","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:46:09.542071","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:46:40.712802","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:47:12.404901","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:47:43.380325","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:48:14.435701","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:48:45.167719","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:49:15.901842","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:49:46.926702","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:50:17.726764","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:50:49.110739","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:51:20.504375","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:51:51.640000","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:52:22.361903","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:52:54.212990","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:53:25.262057","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:53:55.988911","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:54:27.909608","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:54:58.575818","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:55:31.008515","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:56:03.146294","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:56:34.004766","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:57:05.188204","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:57:36.657517","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:58:07.470477","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:58:38.364241","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:59:08.922955","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T13:59:39.611075","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:00:11.060896","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:00:41.725773","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:01:12.705687","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:01:43.811620","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:02:14.802692","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:02:46.123150","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:03:17.333242","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:03:48.468652","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:04:19.246498","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:04:50.154303","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:05:20.807551","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:05:51.754021","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:06:23.498960","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:06:54.477680","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:07:25.070617","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:07:56.001239","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:08:26.801072","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:08:59.014807","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:09:29.930264","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:10:00.595992","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:10:31.201952","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:11:02.836253","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:11:34.561595","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:12:05.353715","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:12:35.706819","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:13:07.743066","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:13:38.784499","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:14:10.115906","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:14:40.451239","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:15:12.048034","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:15:42.712065","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:16:14.666227","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:16:45.400947","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:17:16.520376","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:17:47.097116","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:18:18.107399","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:18:48.965755","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:19:19.733445","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:19:50.404681","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:20:21.934798","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:20:52.814589","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:21:23.841268","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:21:55.037621","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:22:25.636777","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:22:56.591074","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:23:27.101740","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:23:58.886116","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:24:29.928475","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:25:01.202874","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:25:32.021651","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:26:03.777160","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:26:34.681670","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:27:05.606276","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:27:36.228298","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:28:06.672095","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:28:52.634512","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:29:27.754329","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:30:06.030172","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:30:39.624072","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:31:14.543421","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:31:45.258773","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:32:16.306192","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:32:47.153307","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:33:18.189134","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:33:48.558623","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:34:20.341494","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:34:50.854731","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:35:21.981091","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:35:53.009883","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:36:24.509251","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:36:55.399530","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:42:05.554201","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:44:36.118910","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:45:28.227666","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:46:04.209849","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:47:30.880607","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-05T14:59:14.144735Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T14:59:45.029418Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:00:15.262853Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:00:45.931242Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:01:16.494427Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:01:46.726273Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:02:17.297999Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:02:48.154570Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:03:19.500666Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:03:50.023898Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:04:20.557013Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:04:51.019627Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:05:21.531317Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:05:51.727307Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:06:21.892598Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:06:52.569360Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:07:23.110470Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:07:53.789490Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:08:24.464803Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:08:55.514810Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:09:25.875538Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:09:56.319017Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:10:26.928932Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:10:57.656330Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:11:28.162980Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:11:59.016097Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:12:29.974378Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:13:00.635822Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:13:31.517432Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:14:02.959058Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:14:33.308939Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:15:04.411106Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:15:35.215038Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:16:05.549088Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:16:36.384374Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:17:06.758386Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:17:36.908666Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:18:07.591322Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:18:38.285233Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:19:08.753347Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:19:39.436059Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:20:09.726032Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:20:39.941512Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:21:10.270217Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:21:40.702963Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:22:11.389864Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:22:42.309046Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:23:12.475984Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:23:43.712408Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:24:14.141675Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:24:45.361267Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:25:15.453787Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:25:46.467975Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:26:16.900099Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:26:47.050857Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:27:18.085025Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:27:48.281988Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:28:18.447315Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:28:49.033050Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:29:20.019325Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:29:50.392089Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:30:21.102718Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:30:51.487148Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:31:22.213229Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:31:52.504791Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:32:22.774321Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:32:53.868873Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:33:24.019995Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:33:54.651592Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:34:25.785582Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:34:56.801217Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:35:27.752041Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:35:57.824515Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:36:29.006293Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:37:00.016377Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:37:30.306019Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:38:00.394933Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:38:31.465072Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:39:01.808313Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:39:32.249134Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:40:03.024407Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:40:33.771755Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:41:04.256982Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:41:34.831431Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:42:04.929904Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:42:35.694990Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:43:06.814411Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:43:37.302629Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:44:08.732839Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:44:39.788428Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:45:10.295927Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:45:40.536503Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:46:10.766738Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:46:40.980048Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:47:11.133534Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:47:42.218012Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:48:12.858283Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:48:44.288929Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:49:14.531053Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:49:44.973696Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:50:15.946930Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:50:47.311475Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:51:17.735187Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:51:48.161849Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:52:19.470602Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:52:50.057678Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:53:20.243947Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:53:50.589209Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:54:20.782834Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:54:52.321076Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:55:22.627606Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:55:53.588020Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:56:24.040929Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:56:54.485532Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:57:25.247257Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:57:55.992297Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:58:26.386038Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:58:56.939147Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:59:27.414943Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T15:59:58.275718Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:00:28.611053Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:00:59.145296Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:01:29.643128Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:02:00.570520Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:02:31.342662Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:03:02.046694Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:03:32.715260Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:04:02.897033Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:04:33.616302Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:05:04.133592Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:05:34.928612Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:06:05.162666Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:06:35.380794Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:07:05.985117Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:07:36.913905Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:08:08.021208Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:08:38.683648Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:09:09.411304Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:09:40.192978Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:10:11.619330Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:10:41.904596Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:11:12.843890Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:11:43.234879Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:12:14.300357Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:12:44.858218Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:13:16.450607Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:13:47.157749Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:14:17.803750Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:14:48.222929Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:15:19.020413Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:15:49.520653Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:16:19.865257Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}
+{"timestamp":"2025-07-05T16:16:50.619384Z","level":"warning","event":"Process exited abnormally","exit_code":124,"logger":"processor"}

@@ -1,0 +1,6 @@
+2025-07-06 12:52:05,489 - INFO - Connected to DuckDB database.
+2025-07-06 12:52:05,504 - INFO - Created raw_layer schema.
+2025-07-06 12:52:05,507 - INFO - Created refined_layer schema.
+2025-07-06 12:52:05,511 - INFO - Created report_layer schema.
+2025-07-06 12:52:05,520 - INFO - Created raw_layer.sales table.
+2025-07-06 12:52:05,542 - INFO - Closed the database connection.
