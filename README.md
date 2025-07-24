@@ -15,7 +15,7 @@ It's ideal for beginners or junior data engineers looking to practice core ETL s
 <!-- Image représentant l'architecture globale du pipeline -->
 
 <div style="border: 2px dashed #aaa; padding: 40px; text-align: center; color: #999; font-style: italic;">
-  [architecture.png]
+  architecture.png
 </div>
 
 
