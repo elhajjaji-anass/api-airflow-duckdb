@@ -14,13 +14,14 @@ It's ideal for beginners or junior data engineers looking to practice core ETL s
 
 <!-- Image représentant l'architecture globale du pipeline -->
 
-<div style="border: 2px dashed #aaa; padding: 40px; text-align: center; color: #999; font-style: italic;">
-  architecture.png
-</div>
-
-
+<p align="center" style="border: 2px dashed #aaa; padding: 20px; color: #999; font-style: italic; max-width: 600px; margin: auto;">
+  <img src="architecture.png" alt="Architecture du projet" style="max-width: 100%; height: auto;" />
+  <br/>
+  <em>Schéma de l'architecture du projet</em>
+</p>
 
 ---
+
 
 ## 📁 Project Structure
 
