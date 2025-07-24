@@ -10,6 +10,19 @@ It's ideal for beginners or junior data engineers looking to practice core ETL s
 
 ---
 
+## 📷 Architecture du Projet
+
+<!-- Placez ici une image représentant l'architecture globale du pipeline -->
+<!-- ![Architecture du projet](path/to/your/image.png) -->
+
+<div style="border: 2px dashed #aaa; padding: 40px; text-align: center; color: #999; font-style: italic;">
+  [🚀 Data Engineering Mini Project_ API to DuckDB with Airflow - visual selection.png]
+</div>
+
+---
+
+---
+
 ## 📁 Project Structure
 
 ```bash
